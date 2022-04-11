@@ -1,8 +1,6 @@
 # 🎣 Hooks Demo
 
-This is the initial state of an app we're going to experiment with in the session.
-
-We'll be adding some state management using `useState`, an API call using `useEffect` and some basic state sharing using `useContext`.
+This is the final state of the app from the session, having added some state management using `useState`, an API call using `useEffect` and some basic state sharing using `useContext`.
 
 Have an explore of the app to make sure you understand the basic structure of the components.
 
